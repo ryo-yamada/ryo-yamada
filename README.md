@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryo-yamada&count_private=true&show_icons=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-yamada&count_private=true&show_icons=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryo-yamada&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-yamada&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-yamada&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
